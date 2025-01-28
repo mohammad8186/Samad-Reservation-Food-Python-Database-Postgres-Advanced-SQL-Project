@@ -1,5 +1,7 @@
 # Database Management Project
 
+This project is a continuation of the previous **Basic Database Project**, whose repository is also available.
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v13+-blue) ![Python](https://img.shields.io/badge/Python-v3.12+-brightgreen) ![Status](https://img.shields.io/badge/Status-Complete-green)
 
 ## 📖 Project Overview
@@ -39,8 +41,7 @@ The system consists of the following tables:
 ### Installation:
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/mohammad8186/Samad-Reservation-Food-Python-Database-Postgres-Advanced-Project.git
    ```
 
 2. Install dependencies:
